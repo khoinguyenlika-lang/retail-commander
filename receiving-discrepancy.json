@@ -1,0 +1,17 @@
+{
+  "scenario_id": "synthetic-receiving-ambiguity-001",
+  "synthetic": true,
+  "sku": "SKU-001",
+  "location_id": "STORE-01",
+  "supplier_invoice_quantity": 200,
+  "confirmed_receiving_scans": 180,
+  "receiving_session_status": "INTERRUPTED",
+  "pos_sales_quantity": 15,
+  "reported_shortage_quantity": 35,
+  "opening_balance": null,
+  "verified_physical_count": null,
+  "pos_lot_allocation": null,
+  "expected_status": "INSUFFICIENT_EVIDENCE",
+  "expected_verified_variance": null,
+  "expected_adjustment_authorized": false
+}
