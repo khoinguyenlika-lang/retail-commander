@@ -80,3 +80,25 @@ All examples are synthetic. No customer data, real inventory movements, or live 
 ## License
 
 Documentation and example specifications are released under the [MIT License](LICENSE).
+
+🤖 Building with Devin
+
+Retail Commander is being prepared as a public AI-assisted engineering project using Devin by Cognition.
+
+The goal is to turn the documented architecture into a working inventory reconciliation MVP with the assistance of Devin AI software engineering agents.
+
+Planned Devin development milestones
+
+* Implement event ingestion and idempotent inventory processing.
+* Build offline receiving-event recovery and synchronization.
+* Develop discrepancy detection and root-cause investigation.
+* Introduce human-approved inventory adjustments.
+* Validate the implementation against documented test scenarios.
+
+Build transparency
+
+Current status: Architecture and technical specifications published. Devin-assisted implementation is planned.
+
+This repository will document implementation progress, technical challenges, testing results, and lessons learned.
+
+Devin is developed by Cognition. This is an independent project and does not imply official sponsorship or endorsement.
